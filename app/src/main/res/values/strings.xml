@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TugasAKB</string>
+    <string name="hello_world">Hello World</string>
+    <string name="login">LOGIN</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="btn_signin">Sign In</string>
+    <string name="txt_sign_up">Jika belum memiliki akun, klik dibawah</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="con_password">Confirm Password</string>
+    <string name="txt_sign_in">Jika sudah memiliki akun, klik dibawah</string>
+    <string name="welcome">SELAMAT DATANG</string>
+    <string name="btn_profile">Profile</string>
+    <string name="btn_logout">Logout</string>
+    <string name="title_profile">PROFILE</string>
+    <string name="nim">10121702</string>
+    <string name="nama">BINA DAMAREKSA</string>
+    <string name="kelas">AKB IF-7</string>
+    <string name="deskripsi">Hallo, saya mahasiswa jurusan IF di UNIKOM</string>
+    <string name="btn_home">Kembali</string>
+</resources>
